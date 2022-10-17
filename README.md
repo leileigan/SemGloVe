@@ -12,8 +12,8 @@ Please cite our paper if you find it helpful.
 ```
 
 ## Dowload Pre-trained SemGloVe.
- - BERT-based [SemGloVe]()
- - RoBERTa-based [SemGloVe]()
+ - BERT-based [SemGloVe](https://pan.baidu.com/s/1HzEihfQD8qhnwKSKe9Lz7g) code: sema
+ - ALBERTa-based [SemGloVe](https://pan.baidu.com/s/1dK0_Vahji1G2iS4RvaMWVA) code: sema
 
 ## Training
 ### 1. Dump semantic word co-occurrences using BERT or RoBERTa
